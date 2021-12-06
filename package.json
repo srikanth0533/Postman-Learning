@@ -1,0 +1,19 @@
+{
+  "name": "Azure-Blob-SrikanthPOC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@azure/storage-blob": "^12.8.0",
+    "azure-storage": "^2.10.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
